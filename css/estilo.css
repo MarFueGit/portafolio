@@ -411,6 +411,7 @@
             display: flex;
             justify-content: space-between;
             margin: 30px 0;
+          
         }
         
         #portfolio .fila .proyecto {
@@ -419,6 +420,7 @@
             margin: 0 10px;
             position: relative;
             overflow: hidden;
+          
         }
         
         #portfolio .fila .proyecto img {
@@ -427,6 +429,7 @@
             filter: grayscale(1);
             object-fit: cover;
             transition: .5s;
+           
         }
         
         #portfolio .fila .proyecto:hover img {
