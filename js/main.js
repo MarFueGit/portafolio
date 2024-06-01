@@ -69,7 +69,7 @@ const projects = [
     id: "1",
     name: "Wiki Breaking Bad",
     description:
-      "Este projecto consume el api gratuito con información de los personajes de breaking bad. La idea es ofrecer al usuario distintos filtros para seleccionar su personaje favorito y al dar click en un personaje mostrar información detallada. Hecho con Vanilla Js y consumiendo un api podemos demostrar que no siempre es necesario una libreria o framework para manipular el DOM y crear una aplicación web.",
+      "Este proyecto consume el api gratuito con información de los personajes de breaking bad. La idea es ofrecer al usuario distintos filtros para seleccionar su personaje favorito y al dar click en un personaje mostrar información detallada. Hecho con Vanilla Js y consumiendo un api podemos demostrar que no siempre es necesario una libreria o framework para manipular el DOM y crear una aplicación web.",
     img: "assets/img/breaking.PNG",
     repositorio: "https://github.com/MarFueGit/DEV010-data-lovers",
     demo: "https://marfuegit.github.io/DEV010-data-lovers/",
@@ -81,7 +81,7 @@ const projects = [
     id: "2",
     name: "Analizador de texto",
     description:
-      "Este projecto consiste en manipular los textos que sean ingresados en la cajita de texto. Proporcionando información importante como la cantidad de palabras o los números encontrados en el texto. El punto importante es que se utiliza 100% Javascript, lógica de programación y el uso de funciones, métodos de los string o los arrays.",
+      "Este proyecto consiste en manipular los textos que sean ingresados en la cajita de texto. Proporcionando información importante como la cantidad de palabras o los números encontrados en el texto. El punto importante es que se utiliza 100% Javascript, lógica de programación y el uso de funciones, métodos de los string o los arrays.",
     img: "assets/img/analizador-texto.png",
     repositorio: "https://github.com/MarFueGit/DEV010-text-analyzer",
     demo: "https://marfuegit.github.io/DEV010-text-analyzer/",
@@ -105,7 +105,7 @@ const projects = [
     id: "4",
     name: "CineMovies",
     description:
-      "Este projecto consume un api gratuita de peliculas y series, para mostrar información importante de cada una. Asi como filtros y búsqueda de lo que al usuario le interese, igual aplica el uso de componentes reutilizables con React, así como tener una capa extra al entorno JS usando Typescript.",
+      "Este proyecto consume un api gratuita de peliculas y series, para mostrar información importante de cada una. Asi como filtros y búsqueda de lo que al usuario le interese, igual aplica el uso de componentes reutilizables con React, así como tener una capa extra al entorno JS usando Typescript.",
     img: "assets/img/web-movies.PNG",
     repositorio: "https://github.com/MarFueGit/CineMagic-Laboratoria",
     demo: "https://cinemary.netlify.app/",
@@ -129,7 +129,7 @@ const projects = [
     id: "6",
     name: "Ecommerce de Vinos",
     description:
-      "Este projecto es una plataforma que provee una interfaz para navegar conociendo de los distintos tipos de vino, de distintos países y su compra con evio gratuito. Esta construido con React y Typescript, utiliza un backend realizado en node js. Maneja varias rutas con React Router Dom y también la idea de utilizar patrones de diseño compuestos por componentes reutilizables.",
+      "Este proyecto es una plataforma que provee una interfaz para navegar conociendo de los distintos tipos de vino, de distintos países y su compra con evio gratuito. Esta construido con React y Typescript, utiliza un backend realizado en node js. Maneja varias rutas con React Router Dom y también la idea de utilizar patrones de diseño compuestos por componentes reutilizables.",
     img: "assets/img/vinoCaptura.PNG",
     repositorio:
       "https://github.com/MarFueGit/Un_viaje_unico_por_el_mundo_del_vino",
