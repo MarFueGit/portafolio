@@ -194,6 +194,18 @@ html {
   margin-bottom: 20px;
   letter-spacing: 1px;
 }
+.enlace-personalizado {
+  color: #7ac943;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.enlace-personalizado:hover {
+    color: #7ac943;  /* Cambia el color cuando el mouse pasa por encima */
+    text-decoration: underline; /* Añade subrayado al pasar el mouse */
+}
+
+
 
 #sobremi .sobremi p {
   font-size: 14px;
@@ -202,7 +214,8 @@ html {
   margin-bottom: 12px;
 }
 
-#sobremi .sobremi a {
+
+ #sobremi .sobremi .enlace-cv {
   display: inline-block;
   text-decoration: none;
   color: #000;
@@ -211,9 +224,9 @@ html {
   padding: 10px 20px;
   margin-top: 30px;
   transition: 0.5s;
-}
+} 
 
-#sobremi .sobremi a:hover {
+#sobremi .sobremi .enlace-cv:hover {
   background-color: #7ac943;
   color: #fff;
 }
@@ -611,11 +624,6 @@ footer .redes a:hover {
 
 /* Modo responsive*/
 
-/* @media (max-width: 768px) {
-  .grid {
-    grid-template-columns: 1fr;
-  } */
-/* } */
 @media screen and (max-width: 800px) {
   .redes {
     display: none;
@@ -655,6 +663,7 @@ footer .redes a:hover {
     display: block;
     text-align: center;
   }
+  
   #sobremi .contenedor-foto {
     max-width: 200px;
     margin: auto;
@@ -669,6 +678,7 @@ footer .redes a:hover {
     font-size: 25px;
     text-align: center;
   }
+
   /* seccion MIS SERVICIOS */
   #servicios {
     padding: 50px 15px;
