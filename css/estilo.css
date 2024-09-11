@@ -101,13 +101,13 @@ html {
 }
 
 #inicio .contenido .presentacion h2 {
-  font-size: 55px;
+  font-size: 25px;
   margin-bottom: 25px;
   text-align: center;
 }
 
 #inicio .contenido .presentacion h2 span {
-  font-size: 25px;
+  font-size: 35px;
   color: #7ac943;
 }
 
@@ -159,6 +159,7 @@ html {
 #sobremi .contenedor-foto img {
   padding: 20px;
   width: 100%;
+  min-width: 200px;
   border-radius: 20px;
   background-color: #f3f3f3;
 }
@@ -580,7 +581,7 @@ footer .redes a:hover {
   margin: auto;
   width: 90%;
   max-width: 600px;
-  max-height: 90%;
+  max-height: 100%;
   background-color: #fff;
   border-radius: 6px;
   padding: 3em 2.5em;
@@ -593,7 +594,7 @@ footer .redes a:hover {
 }
 
 .modal__title {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .modal__paragraph {
@@ -603,6 +604,7 @@ footer .redes a:hover {
 .modal__img {
   width: 90%;
   max-width: 300px;
+  object-fit: cover;
 }
 
 .modal__close {
@@ -723,6 +725,6 @@ footer .redes a:hover {
   }
 
   .modal__title {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
