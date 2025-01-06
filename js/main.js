@@ -133,7 +133,7 @@ const projects = [
     img: "assets/img/vinoCaptura.PNG",
     repositorio:
       "https://github.com/MarFueGit/Un_viaje_unico_por_el_mundo_del_vino",
-    demo: "https://un-viaje-unico-por-el-mundo-del-vino-eqjliay4c.vercel.app/",
+    demo: "",
     tecnologias: "React, Typescript",
     deploy: "Vercel",
     test: "Jest y React Testing Library"
